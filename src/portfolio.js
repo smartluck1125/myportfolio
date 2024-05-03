@@ -126,7 +126,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+1 (619) 483-0971",
-  email_address: "ivan.super.dev@gmail.com"
+  email_address: "onemoretimeforu@outlook.com"
 };
 
 const isHireable = false; 
